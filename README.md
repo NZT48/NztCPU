@@ -1,4 +1,4 @@
-# ORT2_Processor
+# SimpleProcessor
 Processor made for course ORT2 (which stands for Fundamentals of Computer Engineering 2, in Serbian: Osnovi Računarske Tehnike 2)
 
 * AOR_Sim is simulator for this processor, written in Java 
